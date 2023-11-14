@@ -1,0 +1,10 @@
+Netlist_File: and_latch.pre-vpr.net Netlist_ID: SHA256:17f5386ba42c625143b560de4313160e31c43b8856680273969c04b58f3c4525
+Array size: 30 x 30 logic blocks
+
+#block name	x	y	subblk	layer	block number
+#----------	--	--	------	-----	------------
+n9		17	8	0	0	#0
+out:out		17	0	6	0	#1
+clock		22	0	4	0	#2
+b_in		4	0	2	0	#3
+a_in		21	0	3	0	#4
